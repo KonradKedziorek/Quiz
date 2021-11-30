@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="quest_1">Piosenkę "Lubię wracać tam, gdzie byłem" wykonywał Zbigniew Wodecki</string>
+    <string name="quest_2">Saksofon jest instrumentem strunowym</string>
+    <string name="quest_3">Led Zeppelin wykonuje utwór "Stairway to Heaven"</string>
+    <string name="quest_4">Utwór "Love of my life" wykonuje zespół Queen</string>
+    <string name="quest_5">James Hetfield jest wokalistą oraz gitarzystą zespołu Megadeth</string>
+    <string name="quest_6">Utwór "I want to break free" wykonuje zespół The Beatles</string>
+    <string name="quest_7">Alt to najwyższy głos żeński w muzyce</string>
+    <string name="quest_8">Zespół Dżem w 2020 roku obchodził swoje 40-lecie istnienia</string>
+    <string name="correct_answer">Brawo! To poprawna odpowiedź</string>
+    <string name="incorrect_answer">Niestety! To błędna odpowiedź</string>
+    <string name="answer_was_shown">Oszukujesz! Odpowiedź była już wyświetlona.</string>
+</resources>

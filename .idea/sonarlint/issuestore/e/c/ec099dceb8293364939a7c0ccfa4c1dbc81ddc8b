@@ -1,0 +1,17 @@
+
+p
+java:S1450L"ZRemove the "falseButton" field and declare it as a local variable in the relevant methods.(Ôœ
+t
+java:S1450M"YRemove the "nextButton" field and declare it as a local variable in the relevant methods.(º€ü‰ùÿÿÿÿ
+s
+java:S1450O"XRemove the "tipButton" field and declare it as a local variable in the relevant methods.(Òñüíşÿÿÿÿ
+t
+java:S1450K"YRemove the "trueButton" field and declare it as a local variable in the relevant methods.(Ãş×Äüÿÿÿÿ
+E
+java:S1611B"/Remove the parentheses around the "v" parameter(ÊÜ¿Ç
+C
+java:S1604)"(Make this anonymous inner class a lambda(Üà¨¯üÿÿÿÿ
+>
+java:S16040"(Make this anonymous inner class a lambda(éäó‚
+C
+java:S16047"(Make this anonymous inner class a lambda(ÈŒèâüÿÿÿÿ
